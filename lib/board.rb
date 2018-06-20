@@ -1,3 +1,3 @@
 # Define the variable board below.
-baord = x
-baord = ['','','']
+x = board
+x = ['','','']
