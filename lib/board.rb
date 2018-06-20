@@ -1,3 +1,3 @@
 # Define the variable board below.
-x = board
+board = get_variable_from_file
 x = ['','','']
